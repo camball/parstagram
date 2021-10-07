@@ -23,4 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Main Walkthrough with new account creation, take photo, add caption, and post to server:
+<img src='main_demo.gif' title='Main Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Login Walkthrough with existing user login and user viewing last 20 posts:
+<img src='login_demo.gif' title='Login Video Walkthrough' width='' alt='Video Walkthrough' />
