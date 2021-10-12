@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='part2demo.gif' title='Pt.2 Video Walkthrough' width='350' alt='Video Walkthrough' />
 
 
 # Parstagram - Part I
@@ -52,7 +52,7 @@ Here's a walkthrough of implemented user stories:
 
 **Main Walkthrough with new account creation, take photo, add caption, and post to server:**
 
-<img src='main_demo.gif' title='Main Video Walkthrough' width='350' alt='Video Walkthrough' />
+<img src='main_demo.gif' title='Pt. 1 Video Walkthrough' width='350' alt='Video Walkthrough' />
 
 **Login Walkthrough with existing user login and user viewing last 20 posts:**
 
